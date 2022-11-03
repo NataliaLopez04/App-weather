@@ -213,7 +213,7 @@ input:focus::placeholder {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #474e68;
+  background-color: transparent;
   border-radius: 15px;
   gap: 50px;
 }
